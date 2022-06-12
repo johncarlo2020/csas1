@@ -84,9 +84,9 @@
 
 
     <!-- @jquery -->
-    @toastr_js
+    <!-- @toastr_js
     @toastr_css
-    @toastr_render
+    @toastr_render -->
 
 </body>
 </html>
