@@ -63,7 +63,6 @@
             <p><b>id : </b><span class="id"></span></p>
             <p><b>Name : </b><span class="name"></span></p>
             <p><b>Address : </b><span class="address"></span></p>
-            <p><b>Age : </b><span class="age"></span></p>
             <p><b>Gender : </b><span class="gender"></span></p>
             <p><b>Birth Date : </b><span class="birth_date"></span></p>
             <p><b>Email : </b>  <span class="email"></span></p>
